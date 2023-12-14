@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Normal sudoku rules\nNo 3 or 5 vertically or horizontally (part 2)\nAdd diagonals (part 3)\nNo 3's or 5's on the 2 main diagonals either python code","md5":"7616a5ac265f986011e4dce32f5ff35f"}]}
